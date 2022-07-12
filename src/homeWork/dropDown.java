@@ -37,6 +37,7 @@ public class dropDown {
 			Thread.sleep(1000);
 		}
 		act.sendKeys(Keys.ENTER);
+		System.out.println("edit for github");
 
 	}
 
